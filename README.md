@@ -114,3 +114,7 @@ This system helps local shop owners:
 ## Conclusion
 
 The **Demand Prediction System for a Local Shop** demonstrates how data science and machine learning can transform raw sales data into actionable business intelligence. By leveraging predictive analytics, the system enables smarter inventory planning, reduces operational inefficiencies, and supports better decision-making. This project showcases the complete end-to-end data science workflow and serves as a practical example of applying machine learning to solve real-world retail challenges.
+
+#OUTPUT :
+
+<img width="643" height="768" alt="Image" src="https://github.com/user-attachments/assets/cb99813c-9d8f-4da6-8fbc-3e2edd5d05eb" />
